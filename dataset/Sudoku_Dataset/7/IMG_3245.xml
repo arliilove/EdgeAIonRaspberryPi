@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7</folder>
+	<filename>IMG_3245.JPG</filename>
+	<path>D:\SJTU\CS\Project\PRP\Dataset\Sudoku数字集\7\IMG_3245.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>756</width>
+		<height>1008</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>seven</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>277</ymin>
+			<xmax>521</xmax>
+			<ymax>700</ymax>
+		</bndbox>
+	</object>
+</annotation>

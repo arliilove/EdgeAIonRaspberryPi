@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6</folder>
+	<filename>IMG_3228.JPG</filename>
+	<path>D:\SJTU\CS\Project\PRP\Dataset\Sudoku数字集\6\IMG_3228.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>756</width>
+		<height>1008</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>six</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>136</ymin>
+			<xmax>756</xmax>
+			<ymax>721</ymax>
+		</bndbox>
+	</object>
+</annotation>
