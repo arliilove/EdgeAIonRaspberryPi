@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>IMG_2981.JPG</filename>
+	<path>D:\SJTU\CS\Project\PRP\Dataset\Sudoku数字集\2\IMG_2981.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>756</width>
+		<height>1008</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>two</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>450</ymin>
+			<xmax>527</xmax>
+			<ymax>828</ymax>
+		</bndbox>
+	</object>
+</annotation>
