@@ -74,7 +74,7 @@ if __name__ == '__main__':
         # 维度扩充
         input_data = np.expand_dims(input_data, axis=0)
 
-        # 当使用的不是量化模型时，像素归一化
+        # 当使用的不是量化模型时，像素标准化
         if Net.input['is_float']:
             input_data = (np.float32(input_data) - Net.input['mean']) / Net.input['std']
 
