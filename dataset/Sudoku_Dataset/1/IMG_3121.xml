@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>IMG_3121.JPG</filename>
+	<path>D:\SJTU\CS\Project\PRP\Dataset\Sudoku数字集\1\IMG_3121.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>756</width>
+		<height>1008</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>one</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>430</xmin>
+			<ymin>348</ymin>
+			<xmax>663</xmax>
+			<ymax>748</ymax>
+		</bndbox>
+	</object>
+</annotation>

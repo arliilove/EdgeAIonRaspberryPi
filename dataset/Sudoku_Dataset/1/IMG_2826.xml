@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>IMG_2826.JPG</filename>
+	<path>D:\SJTU\CS\Project\PRP\Dataset\Sudoku数字集\1\IMG_2826.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>756</width>
+		<height>1008</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>one</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>363</ymin>
+			<xmax>483</xmax>
+			<ymax>742</ymax>
+		</bndbox>
+	</object>
+</annotation>
