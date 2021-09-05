@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8</folder>
+	<filename>IMG_3266.JPG</filename>
+	<path>D:\SJTU\CS\Project\PRP\Dataset\Sudoku数字集\8\IMG_3266.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>756</width>
+		<height>1008</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>196</ymin>
+			<xmax>564</xmax>
+			<ymax>689</ymax>
+		</bndbox>
+	</object>
+</annotation>
