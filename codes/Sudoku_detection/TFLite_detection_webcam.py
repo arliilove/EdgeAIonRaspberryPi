@@ -136,13 +136,9 @@ if __name__ == '__main__':
         ''' 检测，获得结果 '''
         results = []  # 存储识别结果
         cnt = 0
-        # test = 9
         for input_data in ROI.number_boxes:  # 逐个检测每一个数字框
             cnt += 1
             # 初始化/加载模型类
-            # if (cnt!=test):
-            #     results.append({'Score': -1})
-            #     continue
             Net = Model()
             Net.load(MODEL_NAME, GRAPH_NAME, LABELMAP_NAME, min_conf_threshold)
             Net.interpreter.allocate_tensors()
